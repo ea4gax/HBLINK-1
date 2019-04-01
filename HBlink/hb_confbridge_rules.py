@@ -32,7 +32,7 @@ configuration file.
 
 BRIDGES = {
     'HBlink': [
-            {'SYSTEM': 'EA3ES',       'TS': 2, 'TGID': 9990, 'ACTIVE': True, 'TIMEOUT': 2, 'TO_TYPE': 'NONE', 'ON': [], 'OFF': []},
+            {'SYSTEM': 'XXXX',       'TS': 2, 'TGID': 9990, 'ACTIVE': True, 'TIMEOUT': 2, 'TO_TYPE': 'NONE', 'ON': [], 'OFF': []},
             {'SYSTEM': 'LORO',       'TS': 2, 'TGID': 9990, 'ACTIVE': True, 'TIMEOUT': 2, 'TO_TYPE': 'NONE', 'ON': [], 'OFF': []},
         ]
 }
