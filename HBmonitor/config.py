@@ -1,4 +1,4 @@
-REPORT_NAME     = 'Hblink de EA3ES'  # Name of the monitored HBlink system
+REPORT_NAME     = 'Hblink de EA3EIZ'  # Name of the monitored HBlink system
 CONFIG_INC      = True                  # Include HBlink stats
 BRIDGES_INC     = True                  # Include Bridge stats (confbrige.py)
 HBLINK_IP      = '127.0.0.1'           # HBlink's IP Address
